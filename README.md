@@ -4,11 +4,9 @@
  - 💻 Our Website [CardBot-Website](https://cardbot.netlify.app/)
  - 📚 Read Our docs in website to use
  <h6 align="center"> Thank You 🤞<h6>
- <hr>
+ <br>
  <h6 align="center"> Whats New ?? <h6>
  <p align="center">version: 1.0.4<p>
  - 📸 Gradient Hover Card 
  - 📰 Article Card
  -  DONT USE v1.0.3 (It Will be Error in Article Card)
- - 💻 Our Website [CardBot-Website](https://cardbot.netlify.app/)
- - 📚 Read Our docs in website to use
