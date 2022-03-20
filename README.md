@@ -31,6 +31,11 @@ Then Add styles in `<head>` :
   <link rel="stylesheet" href="node_modules/cardbot/style.css">    
 ```
 
+## 🤔 How To Use
+1. Install the Cardbot
+2. Copy html code in [Website-docs](https://cardbot.netlify.app/index.html#docs)
+3. Custom your css
+
 
  <h6 align="center"> Thank You 🤞<h6>
 
