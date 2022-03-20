@@ -7,6 +7,6 @@
  <hr>
  <h6> Whats New ?? <h6>
  "version": "1.0.4"
-  - Gradient Hover Card
-  - Article Card
-  - `DONT USE v1.0.3 (It Will be Error in Article Card)`
+ - 📸 Gradient Hover Card 
+ - 📰 Article Card
+ -  DONT USE v1.0.3 (It Will be Error in Article Card)
