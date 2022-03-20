@@ -14,17 +14,17 @@
 + 📰 Article Card
 + DONT USE v1.0.3 (It Will be Error in Article Card)
 
-<h3 align="left"> Install CDN <h3>
- ```
- <link rel="stylesheet" href="https://unpkg.com/cardbot/style.css">  
+## ⚙ Installation
+
+### Use CDN
+
+Add styles in `<head>`:
+
+```html
+  <link rel="stylesheet" href="https://unpkg.com/cardbot/style.css">  
 ```
-<h3 align="left"> Install NPM <h3>
- ```
- npm i cardbot
-```
-```
-<link rel="stylesheet" href="node_modules/cardbot/style.css">   
-```
+### Use NPM
+`npm i cardbot`
 
 
  <h6 align="center"> Thank You 🤞<h6>
