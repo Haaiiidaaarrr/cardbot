@@ -15,14 +15,14 @@
 + DONT USE v1.0.3 (It Will be Error in Article Card)
 
 <h3 align="left"> Install CDN <h3>
- ```html
+ ```
  <link rel="stylesheet" href="https://unpkg.com/cardbot/style.css">  
 ```
 <h3 align="left"> Install NPM <h3>
  ```
  npm i cardbot
 ```
-```html
+```
 <link rel="stylesheet" href="node_modules/cardbot/style.css">   
 ```
 
