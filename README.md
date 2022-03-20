@@ -3,11 +3,16 @@
 
  - 💻 Our Website [CardBot-Website](https://cardbot.netlify.app/)
  - 📚 Read Our docs in website to use
- - <h6 align="center"> Whats New ?? <h6>
- <p align="center">version: 1.0.4<p>
+
+
+<h6 align="left"> Whats New ?? <h6>
+ <p align="left">version: 1.0.4<p>
  - 📸 Gradient Hover Card 
+ <br>
  - 📰 Article Card
+ <br>
  - DONT USE v1.0.3 (It Will be Error in Article Card)
+
 
  <h6 align="center"> Thank You 🤞<h6>
 
