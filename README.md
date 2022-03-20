@@ -5,8 +5,8 @@
  - 📚 Read Our docs in website to use
  <h6 align="center"> Thank You 🤞<h6>
  <hr>
- <h2> Whats New ?? <h2>
- `"version": "1.0.4"`
- > Gradient Hover Card
- > Article Card
- > `DONT USE v1.0.3 (It Will be Error in Article Card)`
+ <h6> Whats New ?? <h6>
+ "version": "1.0.4"
+  - Gradient Hover Card
+  - Article Card
+  - `DONT USE v1.0.3 (It Will be Error in Article Card)`
