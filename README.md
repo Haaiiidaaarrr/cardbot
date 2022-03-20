@@ -24,7 +24,12 @@ Add styles in `<head>`:
   <link rel="stylesheet" href="https://unpkg.com/cardbot/style.css">  
 ```
 ### Use NPM
+Open terminal, and type: 
 `npm i cardbot`
+Then Add styles in `<head>` :
+```html
+  <link rel="stylesheet" href="node_modules/cardbot/style.css">    
+```
 
 
  <h6 align="center"> Thank You 🤞<h6>
