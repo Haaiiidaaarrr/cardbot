@@ -7,8 +7,8 @@
 
 
 > **Version:** 1.0.4, Whats New In this Version ??
-+ 📸 Gradient Hover Card 
-+  📰 Article Card
++ 🎨 Gradient Hover Card 
++ 📰 Article Card
 + DONT USE v1.0.3 (It Will be Error in Article Card)
 
 
